@@ -1,6 +1,6 @@
 # Assignment
 
--I am currently a **Full Stack Web Developer student** driven by a mission to bridge the gap between healthcare and technology. My journey in tech is defined by several core objectives:
+- **I am currently a **Full Stack Web Developer student\*\* driven by a mission to bridge the gap between healthcare and technology. My journey in tech is defined by several core objectives:
 
 - **Learning from Scratch**: I am building a rock-solid foundation in software engineering, starting from the fundamentals to ensure no gaps in my technical knowledge.
 - **Transforming Healthcare**: My ultimate goal is to build systems from the ground up that help **nursing institutions** leverage technology. I aim to digitise routine workflows, improving efficiency and patient care through custom-built software.
